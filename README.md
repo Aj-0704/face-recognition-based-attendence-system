@@ -17,8 +17,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
-
+"C:\Users\agamj\OneDrive\Pictures\Screenshots\Screenshot 2025-05-08 151809.png"
 TAKING ATTENDANCE:
 ![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
 
